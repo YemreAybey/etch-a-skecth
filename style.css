@@ -1,0 +1,33 @@
+body {
+background-color:#f3eba9;
+}
+div.grids{
+background-color:white;
+}
+header{
+margin-top:0;
+text-align:center;
+color:#941f1f;
+background-color:#e0c8c8;
+}
+h1, h4 {
+font-family:Comic Sans MS, Impact, Helvetica, Arial;
+}
+#heading h1{
+margin-bottom:0;
+}
+div h4{
+margin-top:0px;
+}
+#buttons{
+margin:0;
+}
+.btns {
+margin-left:595px;
+}
+#container{
+margin:20px auto;
+width:450px;
+height:450px;
+border:3px solid black;
+}
